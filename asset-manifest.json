@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movieyts/static/css/main.04958f0c.css",
+    "main.js": "/movieyts/static/js/main.7335050b.js",
+    "static/js/787.73183b6c.chunk.js": "/movieyts/static/js/787.73183b6c.chunk.js",
+    "index.html": "/movieyts/index.html",
+    "main.04958f0c.css.map": "/movieyts/static/css/main.04958f0c.css.map",
+    "main.7335050b.js.map": "/movieyts/static/js/main.7335050b.js.map",
+    "787.73183b6c.chunk.js.map": "/movieyts/static/js/787.73183b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04958f0c.css",
+    "static/js/main.7335050b.js"
+  ]
+}
